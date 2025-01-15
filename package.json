@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "this is a practice tutorial for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "nodejs",
+    "file"
+  ],
+  "author": "Mainak Chaudhuri",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
